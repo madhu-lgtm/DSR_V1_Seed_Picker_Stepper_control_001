@@ -1,3 +1,6 @@
+# Test Setup
+![bench_setup_nema17_42hs48_001](https://github.com/user-attachments/assets/3586a3b6-84cb-4622-a384-b7bf9d0ce2c1)
+
 ## Components Used
 - Micro Controller Used :- Arduino nano original
 - Stepper Motor Used :- NEMA 17 , JK42HS48 - 1684 -01
