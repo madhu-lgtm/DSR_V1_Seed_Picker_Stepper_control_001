@@ -25,4 +25,9 @@
 -  Holding Torque @9.38 RPM = 0.5 kgcm
 -  Running Torque @93.75 = 2 kgcm
 -  For More details check "dsr_nema17_42hs48_1684_004"
+
+## For Intial Testing on drone Use 
+- "dsr_nema17_42hs48_1684_007" which has some limitations and noise , use it only for checking seed dispensing.
+- Warning! Do not use "dsr_nema17_42hs48_1684_007" for seed calibration purposes.
+
   
