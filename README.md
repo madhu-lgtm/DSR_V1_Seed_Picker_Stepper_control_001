@@ -12,7 +12,7 @@
 - D2 or D6 -> PWM input from servo tester or FC or Reciver (D2 or D6 Depends on program you selected)
 - 5v       -> for Servo tester if used
 - GND      -> servo Gnd or fc gnd or reciver gnd
-### Driver to Stepper
+##### Driver to Stepper
 - A+       -> red Wire of stepper
 - A-       -> blue Wire of stepper
 - B+       -> Green Wire of stepper
