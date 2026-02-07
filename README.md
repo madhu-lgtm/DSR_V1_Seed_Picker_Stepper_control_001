@@ -24,13 +24,15 @@
 
 ## Rpm and Torque evaluations at 1.5Amp and 3200 micro steps with input voltage 12v
 -  Holding Torque @9.38 RPM = 1.5 kgcm
--  Running Torque @93.75 RPM = 2.5 kgcm
--  Holding Torque @9.38 RPM = 0.5 kgcm
+-  Running Torque @9.38 RPM = 2.5 kgcm
+-  Holding Torque @93.75 RPM = 0.5 kgcm
 -  Running Torque @93.75 = 2 kgcm
 -  For More details check "dsr_nema17_42hs48_1684_004"
 
 ## For Intial Testing on drone Use 
 - "dsr_nema17_42hs48_1684_007" which has some limitations and noise , use it only for checking seed dispensing.
 - Warning! Do not use "dsr_nema17_42hs48_1684_007" for seed calibration purposes.
+- Use D2 for Reading PWM , from FC /Rx/ Servo tester.
+
 
   
