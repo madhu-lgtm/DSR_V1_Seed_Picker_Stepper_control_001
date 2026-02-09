@@ -34,5 +34,8 @@
 - Warning! Do not use "dsr_nema17_42hs48_1684_007" for seed calibration purposes.
 - Use D2 for Reading PWM , from FC /Rx/ Servo tester.
 
+## For Testing 09-feb-26
+Use "dsr_nema17_42hs48_1684_009" Pin CLK of Hw 040 Knob is connected to D2 of nano with 5v and GND of knob
+
 
   
